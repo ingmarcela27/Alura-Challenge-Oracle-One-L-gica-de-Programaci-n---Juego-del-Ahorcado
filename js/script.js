@@ -17,11 +17,11 @@ let listaDePalabras = [
   "GATO",
   "AHORRO",
   "PROGRAMA",
-  "ENCRIPTADOR",
+  "LIBRO",
   "BUG",
   "TELEFONO",
   "LAPTOP",
-  "HABILIDAD",
+  "PERRO",
   "VARIABLE",
 ];
 let palabra = document.querySelector("#palabra");
