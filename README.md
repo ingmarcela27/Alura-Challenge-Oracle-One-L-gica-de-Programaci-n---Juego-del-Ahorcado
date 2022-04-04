@@ -1,4 +1,4 @@
-#Alura Challenge | Oracle One | Lógica de Programación - Juego del Ahorcado
+###Alura Challenge | Oracle One | Lógica de Programación - Juego del Ahorcado
 
 Desarrollo de aplicativo web del juego del Ahorcado, realizado en el programa [Oracle Next Education](https://www.oracle.com/co/education/oracle-next-education/ "Oracle Next Education") con [Alura Latam](https://www.aluracursos.com/ "Alura Latam"),  en cumplimiento del Segundo Challenge de Principiante en Programación.
 
@@ -25,7 +25,7 @@ El propio juego u otro jugador, agrega una palabra secreta de la que se conoce e
 ![Agregar](https://i.imgur.com/aSF9H9w.png "Interfaz Adicionar Palabra")
 
 ### Interfaz de juego
-![Juego](https://i.imgur.com/sco7abu.png"Interfaz Desarrollo del Juego")
+![Juego](https://i.imgur.com/sco7abu.png "Interfaz Desarrollo del Juego")
 
 ### Sitio WEB
 [Ahorcado](https://ingmarcela27.github.io/Alura-Challenge-Oracle-One-Logica-de-Programacion-Juego-del-ahorcado/)
